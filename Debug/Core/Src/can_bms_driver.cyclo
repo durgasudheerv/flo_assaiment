@@ -1,0 +1,2 @@
+../Core/Src/can_bms_driver.c:16:6:send_frame0	2
+../Core/Src/can_bms_driver.c:33:6:send_frame1	1
